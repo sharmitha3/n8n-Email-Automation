@@ -27,8 +27,12 @@ The workflow integrates:
 
 <img width="1824" height="846" alt="image" src="https://github.com/user-attachments/assets/974dd181-548a-40ca-bba4-bdec6bdf5ea7" />
 
+
 <img width="1848" height="884" alt="image" src="https://github.com/user-attachments/assets/477695e4-a8fa-4683-a424-835491111b75" />
 
+
+
 <img width="1882" height="827" alt="111 - Edited" src="https://github.com/user-attachments/assets/e19717e3-47ff-498b-a0bf-ab27af87babb" />
+
 
 <img width="1897" height="701" alt="22 - Edited" src="https://github.com/user-attachments/assets/1b3006a7-5212-425d-9dcb-4385bf3a200a" />
