@@ -25,20 +25,7 @@ The workflow integrates:
 
 ## OUTPUT:
 
-<img width="1824" height="846" alt="image" src="https://github.com/user-attachments/assets/974dd181-548a-40ca-bba4-bdec6bdf5ea7" />
-
-<br>
-
-
-<img width="1848" height="884" alt="image" src="https://github.com/user-attachments/assets/477695e4-a8fa-4683-a424-835491111b75" />
-
-
-<br>
-
-
-
-<img width="1882" height="827" alt="111 - Edited" src="https://github.com/user-attachments/assets/e19717e3-47ff-498b-a0bf-ab27af87babb" />
-<br>
-
-
-<img width="1897" height="701" alt="22 - Edited" src="https://github.com/user-attachments/assets/1b3006a7-5212-425d-9dcb-4385bf3a200a" />
+<img src="https://github.com/user-attachments/assets/974dd181-548a-40ca-bba4-bdec6bdf5ea7" style="margin-bottom:20px;" />
+<img src="https://github.com/user-attachments/assets/477695e4-a8fa-4683-a424-835491111b75" style="margin-bottom:20px;" />
+<img src="https://github.com/user-attachments/assets/e19717e3-47ff-498b-a0bf-ab27af87babb" style="margin-bottom:20px;" />
+<img src="https://github.com/user-attachments/assets/1b3006a7-5212-425d-9dcb-4385bf3a200a" style="margin-bottom:20px;" />
